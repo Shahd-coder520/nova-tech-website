@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/bcrypt": "^6.0.0",
+    "@types/better-sqlite3": "^7.6.13"
+  },
+  "dependencies": {
+    "@tiptap/extension-bold": "^3.29.2",
+    "@tiptap/extension-bullet-list": "^3.29.2",
+    "@tiptap/extension-heading": "^3.29.2",
+    "@tiptap/extension-italic": "^3.29.2",
+    "@tiptap/extension-list-item": "^3.29.2",
+    "@tiptap/extension-ordered-list": "^3.29.2",
+    "@tiptap/extension-text-align": "^3.29.2",
+    "@tiptap/react": "^3.29.2",
+    "@tiptap/starter-kit": "^3.29.2",
+    "bcrypt": "^6.0.0",
+    "better-sqlite3": "^13.0.2",
+    "next-auth": "^4.24.15"
+  }
+}
