@@ -31,4 +31,9 @@
    ```bash
    git clone [https://github.com/Shahd-coder520/nova-tech-website.git](https://github.com/Shahd-coder520/nova-tech-website.git)
    
-
+2. انتقل إلى مجلد المشروع:
+   ```bash
+   cd my-app
+   
+3.npm install
+4.npm run dev
